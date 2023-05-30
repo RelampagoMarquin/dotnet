@@ -1,0 +1,15 @@
+C:\Users\marco\Documents\c#\bonus\bin\Debug\net7.0\bonus.exe
+C:\Users\marco\Documents\c#\bonus\bin\Debug\net7.0\bonus.deps.json
+C:\Users\marco\Documents\c#\bonus\bin\Debug\net7.0\bonus.runtimeconfig.json
+C:\Users\marco\Documents\c#\bonus\bin\Debug\net7.0\bonus.dll
+C:\Users\marco\Documents\c#\bonus\bin\Debug\net7.0\bonus.pdb
+C:\Users\marco\Documents\c#\bonus\obj\Debug\net7.0\bonus.csproj.AssemblyReference.cache
+C:\Users\marco\Documents\c#\bonus\obj\Debug\net7.0\bonus.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marco\Documents\c#\bonus\obj\Debug\net7.0\bonus.AssemblyInfoInputs.cache
+C:\Users\marco\Documents\c#\bonus\obj\Debug\net7.0\bonus.AssemblyInfo.cs
+C:\Users\marco\Documents\c#\bonus\obj\Debug\net7.0\bonus.csproj.CoreCompileInputs.cache
+C:\Users\marco\Documents\c#\bonus\obj\Debug\net7.0\bonus.dll
+C:\Users\marco\Documents\c#\bonus\obj\Debug\net7.0\refint\bonus.dll
+C:\Users\marco\Documents\c#\bonus\obj\Debug\net7.0\bonus.pdb
+C:\Users\marco\Documents\c#\bonus\obj\Debug\net7.0\bonus.genruntimeconfig.cache
+C:\Users\marco\Documents\c#\bonus\obj\Debug\net7.0\ref\bonus.dll

@@ -1,0 +1,15 @@
+C:\Users\marco\Documents\c#\exOO\obj\Debug\net7.0\exOO.csproj.AssemblyReference.cache
+C:\Users\marco\Documents\c#\exOO\obj\Debug\net7.0\exOO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marco\Documents\c#\exOO\obj\Debug\net7.0\exOO.AssemblyInfoInputs.cache
+C:\Users\marco\Documents\c#\exOO\obj\Debug\net7.0\exOO.AssemblyInfo.cs
+C:\Users\marco\Documents\c#\exOO\obj\Debug\net7.0\exOO.csproj.CoreCompileInputs.cache
+C:\Users\marco\Documents\c#\exOO\bin\Debug\net7.0\exOO.exe
+C:\Users\marco\Documents\c#\exOO\bin\Debug\net7.0\exOO.deps.json
+C:\Users\marco\Documents\c#\exOO\bin\Debug\net7.0\exOO.runtimeconfig.json
+C:\Users\marco\Documents\c#\exOO\bin\Debug\net7.0\exOO.dll
+C:\Users\marco\Documents\c#\exOO\bin\Debug\net7.0\exOO.pdb
+C:\Users\marco\Documents\c#\exOO\obj\Debug\net7.0\exOO.dll
+C:\Users\marco\Documents\c#\exOO\obj\Debug\net7.0\refint\exOO.dll
+C:\Users\marco\Documents\c#\exOO\obj\Debug\net7.0\exOO.pdb
+C:\Users\marco\Documents\c#\exOO\obj\Debug\net7.0\exOO.genruntimeconfig.cache
+C:\Users\marco\Documents\c#\exOO\obj\Debug\net7.0\ref\exOO.dll
